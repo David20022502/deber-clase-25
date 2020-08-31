@@ -1,0 +1,2 @@
+el salario semanal es: 75
+el salario total por los trabajadores es: 300
